@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mertbayca
-- 👀 I’m interested in data science, business analytics and project management. 
-- 🌱 I’m currently learning all the above plus website development, seo and data visualisation.
-- 💞️ I’m looking to collaborate on unique data and business focused ideas!
+- 👀 I’m interested in web development, data science, business analytics and project management. 
 - 📫 How to reach me: You can reach me at mertbayca@gmail.com
 
 <!---
